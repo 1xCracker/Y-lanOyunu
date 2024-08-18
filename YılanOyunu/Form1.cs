@@ -1,6 +1,6 @@
 
 
-namespace YılanOyunu
+namespace YilanOyunu
 {
     public partial class Form1 : Form
     {
